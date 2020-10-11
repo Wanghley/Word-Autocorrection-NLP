@@ -48,13 +48,13 @@ Please read [CONTRIBUTING.md](https://gist.github.com/Wanghley/8d237a5e568b4e314
 
 ## Versioning
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](#). 
+We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/Wanghley/Word-Autocorrection-NLP/tags). 
 
 ## Authors
 
 * **Wanghley Martins** - *Initial work* - [wanghley](https://github.com/wanghley)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/Wanghley/Word-Autocorrection-NLP/contributors) who participated in this project.
 
 ## License
 
